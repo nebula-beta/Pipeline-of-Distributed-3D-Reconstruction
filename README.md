@@ -12,14 +12,23 @@
 
 ## 可能会用到的第三方库
 
+### DBoW2
+https://github.com/dorian3d/DBoW2
+
+### DBoW3
+https://github.com/rmsalinas/DBow3
+
+#### libvot
+A C++11 multithread library for image retrieval http://hlzz.github.io/libvot
+
+
+
 #### Normalized cut
 https://github.com/iromu/Graclus
 
 http://www.cs.utexas.edu/users/dml/Software/README_Graclus
 
 
-#### libvot
-A C++11 multithread library for image retrieval http://hlzz.github.io/libvot
 
 
 #### GraphSfM
