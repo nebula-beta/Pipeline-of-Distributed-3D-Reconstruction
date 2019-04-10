@@ -63,9 +63,8 @@ https://blog.csdn.net/juncoder/article/details/38894217
 #### 瑞利商与极值计算
 https://seanwangjs.github.io/2017/11/27/rayleigh-quotient-maximum.html
 
-####
-拉普拉斯矩阵（Laplace Matrix）与瑞利熵（Rayleigh quotient）
-
+#### 拉普拉斯矩阵（Laplace Matrix）与瑞利熵（Rayleigh quotient）
+https://www.cnblogs.com/xingshansi/p/6702188.html?utm\_source=itdadao&utm\_medium=referral
 
 #### Graclus
 https://github.com/iromu/Graclus
