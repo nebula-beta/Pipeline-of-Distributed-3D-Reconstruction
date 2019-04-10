@@ -43,11 +43,15 @@ https://github.com/AIBluefisher/GraphSfM
 https://home.cse.ust.hk/~tshenaa/#code
 
 
-#### Normalized Cuts and Image Segmentation
-https://repository.upenn.edu/cgi/viewcontent.cgi?article=1101&context=cis_papers
+#### Normalized Cuts
+https://blog.csdn.net/Amy\_H/article/details/1907699
 
-http://www.shenlanxueyuan.com/open/course/18/lesson/14/live/replay/223/entry?refererUrl=http%3A//www.shenlanxueyuan.com/open/course/explore
+https://repository.upenn.edu/cgi/viewcontent.cgi?article=1101&context=cis\_papers
 
+http://www.sci.utah.edu/~gerig/CS7960-S2010/handouts/Normalized%20Graph%20cuts.pdf
+
+
+#### 网络流--最大流最小割
 https://www.cnblogs.com/fzl194/p/8855101.html
 
 
@@ -56,5 +60,25 @@ https://blog.csdn.net/zitian246/article/details/76218020
 
 https://blog.csdn.net/juncoder/article/details/38894217
 
+#### 瑞利商与极值计算
+https://seanwangjs.github.io/2017/11/27/rayleigh-quotient-maximum.html
 
-https://blog.csdn.net/Amy_H/article/details/1907699
+####
+拉普拉斯矩阵（Laplace Matrix）与瑞利熵（Rayleigh quotient）
+
+
+#### Graclus
+https://github.com/iromu/Graclus
+
+http://www.cs.utexas.edu/users/dml/Software/graclus.html
+
+https://www.pcquest.com/graclus-a-fast-graph-clustering-tool/
+
+### Paper about Graclus
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4302760
+
+#### 深蓝学院--大规模三维重建
+http://www.shenlanxueyuan.com/open/course/18/lesson/14/live/replay/223/entry?refererUrl=http%3A//www.shenlanxueyuan.com/open/course/explore
+
+
+
