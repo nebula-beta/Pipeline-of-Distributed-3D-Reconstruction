@@ -37,10 +37,17 @@ https://github.com/AIBluefisher/GraphSfM
 
 
 
-## 论文
+## 论文, 知识
 #### Tianwei Shen
 
 https://home.cse.ust.hk/~tshenaa/#code
+
+
+#### Video Google: A Text Retrieval Approach to Object Matching in Videos
+http://www.robots.ox.ac.uk/~vgg/publications/papers/sivic03.pdf
+
+#### Scalable Recognition with a Vocabulary Tree
+http://www-inst.eecs.berkeley.edu/~cs294-6/fa06/papers/nister\_stewenius\_cvpr2006.pdf
 
 
 #### Normalized Cuts
